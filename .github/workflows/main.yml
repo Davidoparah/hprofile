@@ -1,4 +1,4 @@
-name: ODCprofile Actions
+name: ODCprofileActions
 on: workflow_dispatch
 jobs:
   Testing:
